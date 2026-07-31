@@ -32,7 +32,7 @@
 Building intelligent systems with precision and creativity.
 
 * 🎓 **Specializations:** Computer Vision, Deep Learning, & RAG / LLM Architectures
-* 🛠️ **Core Tech:** Python, PyTorch, TensorFlow, React, Supabase, Git
+* 🛠️ **Core Tech:** Python, PyTorch, TensorFlow, React, Supabase, Git , R , PySpark , Streamlit 
 * 🎯 **Approach:** Blending design aesthetics and artificial intelligence to build scalable digital experiences
 * 🚀 **Current Focus:** Generative AI, Autonomous Agents, and Custom AI Models
 
