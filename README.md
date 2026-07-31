@@ -1,4 +1,4 @@
-<!-- Riad AI - AI Developer | Dark Themed GitHub Profile -->
+<!-- Ryad-AI Developer | Dark Themed GitHub Profile -->
 
 <div align="center">
 
