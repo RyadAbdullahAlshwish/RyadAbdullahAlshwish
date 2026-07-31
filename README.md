@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Riad — AI Engineer & Creative Technologist
+# Ryad - AI Engineer & Creative Technologist
 
 <!-- Animated GIFs Layout -->
 <table border="0">
