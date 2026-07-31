@@ -42,26 +42,25 @@ Building intelligent systems with precision and creativity.
 
 <div align="center">
 
-<!-- Profile Views & Hits -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RyadAbdullahAlshwish&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRyadAbdullahAlshwish&count_bg=%2300CED1&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=Hits&edge_flat=false" alt="Hits" />
-</p>
+  <!-- Profile Views -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=RyadAbdullahAlshwish&style=for-the-badge&color=blueviolet&label=Profile+Views" alt="Profile Views" />
+  </p>
 
-<!-- GitHub Stats -->
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=RyadAbdullahAlshwish&show_icons=true&theme=tokyonight&hide_border=true" width="400"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyadAbdullahAlshwish&layout=compact&theme=tokyonight&hide_border=true" width="300"/>
-    </td>
-  </tr>
-</table>
+  <br />
 
-<!-- Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RyadAbdullahAlshwish&theme=tokyonight&hide_border=true" width="95%" />
+  <!-- GitHub Stats & Top Languages -->
+  <p align="center">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=RyadAbdullahAlshwish&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="GitHub Stats" />
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RyadAbdullahAlshwish&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Top Languages" />
+  </p>
+
+  <br />
+
+  <!-- Streak Stats -->
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RyadAbdullahAlshwish&theme=tokyonight&hide_border=true" width="95%" alt="GitHub Streak" />
+  </p>
 
 </div>
 
